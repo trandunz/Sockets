@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bce0cc6-57d8-4898-8baa-bc96bc8b6973": {
+      "ProjectGuid": "0bce0cc6-57d8-4898-8baa-bc96bc8b6973",
+      "DisplayName": "SocketPlayground",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,10 @@
+﻿  Client.cpp
+C:\Users\trand\Documents\GitHub\Sockets\SocketPlayground\SocketPlayground\Client.cpp(7,25): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\trand\Documents\GitHub\Sockets\SocketPlayground\SocketPlayground\Client.cpp(47,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+C:\Users\trand\Documents\GitHub\Sockets\SocketPlayground\SocketPlayground\Main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server.cpp
+C:\Users\trand\Documents\GitHub\Sockets\SocketPlayground\SocketPlayground\Server.cpp(17,19): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\trand\Documents\GitHub\Sockets\SocketPlayground\SocketPlayground\Server.cpp(47,27): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  Generating Code...
+  SocketPlayground.vcxproj -> C:\Users\trand\Documents\GitHub\Sockets\SocketPlayground\x64\Debug\SocketPlayground.exe
